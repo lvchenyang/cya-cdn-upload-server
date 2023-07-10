@@ -7,7 +7,7 @@ This is a server side API example for [Cya CDN](https://www.figma.com/community/
 
 ## How to use
 
-1. Clone this repo to local
+1. Clone or fork this repo to local
 ```
 git clone https://github.com/lvchenyang/cya-cdn-upload-server.git
 ```
