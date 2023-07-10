@@ -1,3 +1,8 @@
+
+# Cya CDN Upload Server
+
+![cover](https://ali.bczcdn.com/reading/ba767eb7-5fbd-4e98-b333-4741d218fcc3.png)
+
 This is a server side API example for [Cya CDN](https://www.figma.com/community/plugin/1258264462999317788/Cya-CDN) plugin from figma. You can clone this code to local and start it to compress and upload Figma assets to remote CDN server without leaving Figma.
 
 ## How to use
