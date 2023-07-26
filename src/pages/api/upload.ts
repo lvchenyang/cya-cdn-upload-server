@@ -18,10 +18,10 @@ export const config = {
  * The value of these options are fake, you should change them.
  */
 const ALI_OSS_OPTIONS: OSS.Options = {
-  bucket: "****",
-  region: "****",
-  accessKeyId: "****",
-  accessKeySecret: "****",
+  bucket: process.env.ALI_OSS_BUCKET,
+  region: process.env.ALI_OSS_REGION,
+  accessKeyId: process.env.ALI_OSS_ACCESS_KEY_ID!,
+  accessKeySecret: process.env.ALI_OSS_ACCESS_KEY_SECRET!,
 };
 
 /**
